@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Colombia Weather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="mimimim_temperature">Mimimim temperature</string>
+    <string name="maximum_temperature">Maximum Temperature</string>
+</resources>
